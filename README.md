@@ -1,2 +1,2 @@
 # rock-paper-scissors
-rps game
+[click here to play][https://madujithgowda.github.io/rock-paper-scissors/]
